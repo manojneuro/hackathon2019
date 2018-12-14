@@ -68,6 +68,7 @@
     - [RSA toolbox](#rsa-toolbox)
     - [PCM toolbox](#pcm-toolbox)
     - [cvMANOVA](#cvmanova)
+    - [BrainIAK](#brainiak)
 * [Meta analysis](#meta-analysis)
 * [Neuroimaging video series](#neuroimaging-video-series)
   + [Mumford brainstats](#mumford-brainstats)
@@ -558,7 +559,7 @@ Nilearn is a Python module for fast and easy statistical learning on NeuroImagin
 * [course/tutorial](http://nilearn.github.io/introduction.html#python-for-neuroimaging-a-quick-start)
 
 
-#### brainIAK
+#### BrainIAK
 BrainIAK applies advanced machine learning methods and high-performance computing to analyzing neuroimaging data.
 
 * [website](http://brainiak.org/)
@@ -590,6 +591,11 @@ The pattern components modelling toolbox of the [Diedrichsen lab](https://twitte
 From [Carsten Allefeld](https://twitter.com/c_allefeld)
 * [website](https://github.com/allefeld/cvmanova)
 
+#### BrainIAK
+Advanced fMRI analysis in Python that is scalable on high performance clusters.
+* [website](http://brainiak.org)
+* [manual](http://brainiak.org/docs/)
+* [coming soon: tutorials](http://brainiak.org/events/ohbm2018/brainiak_sample_tutorials/)
 
 ## Meta analysis
 * [Overview_of_Meta-Analysis_Approaches](https://www.pathlms.com/ohbm/courses/8246/sections/12542/video_presentations/116072) by [Tom Nichols](https://twitter.com/ten_photos) at OHBM 2018 with [slides](https://figshare.com/articles/Overview_of_Meta-Analysis_Approaches/6723839) (18 min)
